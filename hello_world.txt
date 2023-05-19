@@ -1,0 +1,3 @@
+Hi my name is Michael. 
+I am adding some text. 
+This is part of the Odin Project instructions.
